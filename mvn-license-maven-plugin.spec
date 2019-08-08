@@ -4,7 +4,7 @@
 #
 Name     : mvn-license-maven-plugin
 Version  : 1.10
-Release  : 2
+Release  : 3
 URL      : https://github.com/mojohaus/license-maven-plugin/archive/license-maven-plugin-1.10.tar.gz
 Source0  : https://github.com/mojohaus/license-maven-plugin/archive/license-maven-plugin-1.10.tar.gz
 Source1  : https://repo1.maven.org/maven2/org/codehaus/mojo/license-maven-plugin/1.10/license-maven-plugin-1.10.jar
